@@ -4,7 +4,7 @@ ASP.NET Core Web API that scrapes shows from [TVMaze](https://www.tvmaze.com/api
 
 ## Running
 
-The solution is built on .NET 9 and SQLite — no external setup required. The database file is created automatically on first run.
+The solution is built on .NET 10 and SQLite — no external setup required. The database file is created automatically on first run.
 
 ### API
 Run `TvShows.Api` (F5 in your IDE or `dotnet run --project src/TvShows.Api`). Swagger opens automatically at:
