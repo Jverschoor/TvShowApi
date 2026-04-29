@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TvShows.Api/TvShows.Api.csproj" />
+    <Project Path="src/TvShows.Application/TvShows.Application.csproj" />
+    <Project Path="src/TvShows.Console/TvShows.Console.csproj" />
+    <Project Path="src/TvShows.Functions/TvShows.Functions.csproj" />
+    <Project Path="src/TvShows.Infrastructure/TvShows.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TvShows.Tests/TvShows.Tests.csproj" />
+  </Folder>
+</Solution>
